@@ -1,1 +1,1 @@
-# JAVA-Pattern-Programs
+Java Pattern Programming from A-Z Pattern
